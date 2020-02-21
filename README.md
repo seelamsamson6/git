@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/git/git/_apis/build/status/git.git)](https://dev.azure.com/git/git/_build/latest?definitionId=11)
 
-Git - fast, scalable, distributed revision control system
+Git - fast, scalable, distributed revision control system  
 =========================================================
 
 Git is a fast, scalable, distributed revision control system with an
